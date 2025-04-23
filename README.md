@@ -1,5 +1,5 @@
 # SMB-ARCADE-EDITION
-Have you ever wondered what Super Mario Bros. would look like if the NES hadn't existed? Here's my own answer to that questiion!
+Have you ever wondered what Super Mario Bros. would look like if the NES hadn't existed? Here's my own answer to that question!
 
 NEW:
 + start with only one life
