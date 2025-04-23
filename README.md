@@ -1,4 +1,4 @@
-# Super-Mario-Bros.-ARCADE-EDITION
+# SMB-ARCADE-EDITION
 ROM-Hack/IPS-Patch for Super Mario Bros. (World)
 
 Have you ever wondered what Super Mario Bros. would look like if the NES hadn't existed? Here's my own answer to that question!
