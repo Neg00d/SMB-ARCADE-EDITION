@@ -1,4 +1,4 @@
-# SMB-ARCADE-EDITION
+# SMB-ARCADE-EDITION (1.1)
 ROM-Hack/IPS-Patch for Super Mario Bros. (World)
 
 NEW:
@@ -11,7 +11,5 @@ NEW:
 + differnet score values
 + enemies are far more aggressive
 + MASTER MODE!!!
-+ water stages are actually fun now
-+ Luigi was named to Lario
 
 This ROM-Hack gives you the feeling of playing for your inserted coins, so every life counts - don't skip any stages, actually unless you're a extremly talented SMB-player of course ;P!
