@@ -11,5 +11,6 @@ NEW:
 + differnet score values
 + enemies are far more aggressive
 + MASTER MODE!!!
++ Lario was named back to Luigi
 
 This ROM-Hack gives you the feeling of playing for your inserted coins, so every life counts - don't skip any stages, actually unless you're a extremly talented SMB-player of course ;P!
