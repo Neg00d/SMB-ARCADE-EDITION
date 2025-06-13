@@ -1,5 +1,5 @@
 # SMB-ARCADE PLUS (2.0)
-This is a ROM-Hack/IPS-Patch for Super Mario Bros. (World)
+A simple ROM-Hack/IPS-Patch for Super Mario Bros. (World) to make the game a little bit harder.
 
 NEW: Super Mario Bros. ARCADE PLUS (2.0) now available!!!
 
