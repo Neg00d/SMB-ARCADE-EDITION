@@ -1,7 +1,9 @@
 # SMB-ARCADE-EDITION (1.0)
 ROM-Hack/IPS-Patch for Super Mario Bros. (World)
 
-NEW:
+NEW: Super Mario Bros. ARCADE PLUS now available!
+This updated version includes a small graphic overhaul and 8 new levels. However, you can still choose to play the version with original 32 stages instead!
+
 + start with only one life
 + less time to traverse stages
 + new (partially humorous) text & UI
