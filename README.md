@@ -1,9 +1,9 @@
 # SMB-ARCADE PLUS (2.0)
 A simple ROM-Hack/IPS-Patch for Super Mario Bros. (World) that makes the game a little bit harder.
 
-NEW: Super Mario Bros. ARCADE PLUS (2.0) now available!!!
+NEW: Super Mario Bros. ARCADE PLUS (2.2) now available!!!
 
-+ 8 new stages (40 IN TOTAL)
++ 9 new stages (41 IN TOTAL)
 + updated graphics
 + no mid-stages checkpoints
 + start with only one life
@@ -15,5 +15,6 @@ NEW: Super Mario Bros. ARCADE PLUS (2.0) now available!!!
 + differnet score values
 + enemies are far more aggressive
 + MASTER MODE!!!
++ NEW 'True Final Castle' (8-6)
   
 This ROM-Hack gives you the feeling of playing for your inserted coins, so every life counts - don't skip any stages, unless you're a extremly talented SMB-player of course ;P!
